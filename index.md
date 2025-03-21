@@ -37,5 +37,5 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 
 ## Contact Us
 If you have any questions about this Privacy Policy, please contact us:
-- By email: [Votre email]
+- By email: "hamaneyousseef@gmail.com"
 - By visiting this page on our website: https://github.com/Hamaney92/pictopdf-privacy
